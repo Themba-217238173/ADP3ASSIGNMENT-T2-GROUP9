@@ -1,9 +1,6 @@
 package za.ac.cput.service.student;
-
-/*
-
 /* StudentServiceTest.java
-Service test class for Student
+Service test class for student
 Author: Cameron Henry Noemdo (219115443)
 Date: 12 June 2022
 */
